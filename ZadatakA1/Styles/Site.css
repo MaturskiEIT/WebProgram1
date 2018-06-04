@@ -1,0 +1,21 @@
+﻿body
+{
+    background-image: url('../slike/pozadina.jpg');
+    background-position: center center;
+}
+.velicinaslike
+{
+    width: 150px;
+    height: 150px;
+}
+.desno
+{
+    text-align: right;
+}
+.naslov
+{
+    font-size: x-large;
+    color: #FF0000;
+    font-weight: bold;
+    text-align: center;
+}

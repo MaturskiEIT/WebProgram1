@@ -1,0 +1,8 @@
+C:\Users\Filip\Desktop\ZadatakA1\ZadatakA1\bin\ZadatakA1.dll
+C:\Users\Filip\Desktop\ZadatakA1\ZadatakA1\bin\ZadatakA1.pdb
+C:\Users\Filip\Desktop\ZadatakA1\ZadatakA1\obj\Debug\ZadatakA1.dll
+C:\Users\Filip\Desktop\ZadatakA1\ZadatakA1\obj\Debug\ZadatakA1.pdb
+C:\Users\Filip\Desktop\Zadaci za maturu\ZadatakA1\ZadatakA1\bin\ZadatakA1.dll
+C:\Users\Filip\Desktop\Zadaci za maturu\ZadatakA1\ZadatakA1\bin\ZadatakA1.pdb
+C:\Users\Filip\Desktop\Zadaci za maturu\ZadatakA1\ZadatakA1\obj\Debug\ZadatakA1.dll
+C:\Users\Filip\Desktop\Zadaci za maturu\ZadatakA1\ZadatakA1\obj\Debug\ZadatakA1.pdb
